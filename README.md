@@ -20,8 +20,8 @@ This project simulates the Monty Hall problem, a probability puzzle based on a g
 - Ensure the images folder is in the same directory as the src folder for correct icon loading.
 - Set up your IDE to recognize the src folder as the source folder if necessary.
 - Compile and run the Monty_Hall.java file:
-- Locate the Monty_Hall.java file in the src folder.
-- Click the Run button or use the IDE’s shortcut to execute the program.
+1. Locate the Monty_Hall.java file in the src folder.
+2. Click the Run button or use the IDE’s shortcut to execute the program.
 
 # How to Play
 1. Upon running the program, a graphical window will appear with three doors.
